@@ -12,14 +12,17 @@ To provide our services, especially emergency SOS routing and pilgrim coordinati
 
 ### A. Personal Information
 - **Account Data:** Your full name, phone number, email address, gender, and role (Pilgrim or Moderator).
-- **Communication Data:** Information related to voice calls placed through the App, including call duration, timestamps, and connection logs.
+- **Communication Data:** Information related to voice calls placed through the App, including carrier-based calls and Internet VoIP calls, such as call duration, timestamps, and connection logs.
 
 ### B. Device and Permission-Based Data
 Google Play requires us to explicitly disclose the collection of sensitive device data:
 - **Location Data (Foreground & Background):** We collect your precise device location using GPS.
   - *Pilgrims:* Location is collected in the background to ensure Moderators can locate you during an emergency (SOS) or to guide you back to your group.
   - *Moderators:* Location is used to broadcast Navigation Beacons to guide Pilgrims.
-- **Microphone & Phone State:** We require microphone access to facilitate WebRTC Internet VoIP calls between Pilgrims and Moderators. We also read your phone state to integrate seamlessly with your device's native calling screens.
+- **Microphone, Phone State, & Calling:** 
+  - We require microphone access to facilitate WebRTC Internet VoIP calls.
+  - We use the Phone permission to facilitate **carrier-based voice calls** between group members.
+  - We read your phone state to integrate seamlessly with your device's native calling screens for both Internet and carrier calls.
 - **Push Notifications:** We collect device tokens to send real-time SOS alerts, chat messages, and call rings.
 
 ### C. Usage Data
