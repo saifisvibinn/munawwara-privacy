@@ -66,5 +66,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## 8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-**Email:** support@durrahcare.com
-*(Please replace with your actual support email)*
+**Email:** munawwaracare@gmail.com
