@@ -138,7 +138,3 @@ We may update this Privacy Policy. We will post the updated version at the same 
 **Email:** munawwaracare@gmail.com
 
 For account deletion requests, include your full name, phone number, and travel group name (if known).
-
----
-
-*Publish this file at: https://saifisvibinn.github.io/munawwara-privacy/*
